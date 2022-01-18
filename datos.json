@@ -1,0 +1,82 @@
+[ 
+    {    
+        "id": 1,
+        "cedula": "1311472598",
+        "nombre": "Jose Parrales",
+        "direccion": "Montecristi",
+        "telefono": "0956789545",
+        "correo":  "josep@gmail.com"
+    },
+    {
+        "id": 2,
+        "cedula" : "1347485522",
+        "nombre": "Pedro Pin",
+        "direccion": "Quito",
+        "telefono":  "0996464442",
+        "correo" : "peddrop@gmail.com"
+    },
+    {
+        "id":3,
+        "cedula":"1315448758",
+        "nombre" : "Paola Cortes",
+        "direccion":  "Morelia",
+        "telefono": "0996464554",
+        "correo":  "paolac@gmail.com" 
+    },
+    {
+        "id": 4,
+        "cedula": "1315532563",
+        "nombre": "Rafael Cuzme ",
+        "direccion": "Montecristi",
+        "telefono": "0965865656 ",
+        "correo": "rafaelc@gmail.com"
+    },
+    {
+        "id":5,
+        "cedula": "1314568567 ",
+        "nombre": "Enrique Pin",
+        "direccion": "Manta ",
+        "telefono": "0965655682",
+        "correo": "enriquep@gmail.com"
+    },
+    {
+        "id" :6,
+        "cedula": "1315632585",
+        "nombre": "Fabian Parrales",
+        "direccion": "Manta",
+        "telefono": "0998653265",
+        "correo": "fabianp@gmail.com "
+    },
+    {
+        "id":7,
+        "cedula": "1315648586",
+        "nombre": "Pierre Cheng",
+        "direccion": "Manta",
+        "telefono": "0989655632",
+        "correo": "pierrec@gmail.com"
+    },
+    {
+        "id": 8, 
+        "cedula": "1315678546 ",
+        "nombre": "Steven Zambrano ",
+        "direccion": "Quito ",
+        "telefono": "0989659865",
+        "correo": "stevenz@gmail.com"
+    },
+    {
+        "id" :9,
+        "cedula" : "1314568965",
+        "nombre" : "Jean Anchundia",
+        "direccion" : "Montecristi ",
+        "telefono": "0998653265 ",
+        "correo": "jeana@gmail.com "
+    },
+    {
+        "id" :10,
+        "cedula" : "1316458556 ",
+        "nombre" : "Luis Torres ",
+        "direccion": "Manta",
+        "telefono": "0989655621",
+        "correo": "luist@gmail.com  "
+    }
+]
